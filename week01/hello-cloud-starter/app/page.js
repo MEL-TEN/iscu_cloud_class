@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import { POST } from "./api/shorten/route";
 
 const MAX_URL_LENGTH = 2048;
 
